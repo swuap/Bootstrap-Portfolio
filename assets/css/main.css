@@ -1,0 +1,16 @@
+.media {
+    margin: 0 50px 0 80px;   
+}
+
+.d-flex {
+    margin: 0 50px 0 0;
+}
+
+.card {
+    float: left;
+    margin: 25px;
+}
+
+form {
+    margin: 0 50px 0 80px;
+}
